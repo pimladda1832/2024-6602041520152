@@ -6,4 +6,3 @@ curl -X POST http://localhost:8080/api/auth/local/register \
           "email": "ppp2143@hotmail.com",
           "password": "P@2511"
      }'
-
